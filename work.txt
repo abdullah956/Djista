@@ -1,0 +1,82 @@
+PS C:\Users\PMLS\Desktop\Django> git clone https://github.com/abdullah956/Djista.git
+Cloning into 'Djista'...
+remote: Enumerating objects: 3, done.
+
+jista
+PS C:\Users\PMLS\Desktop\Django\djista> npm init vue@latest
+Need to install the following packages:
+create-vue@3.10.3
+Ok to proceed? (y) y
+
+Vue.js - The Progressive JavaScript Framework
+
+√ Project name: ...  Djista_frontend
+√ Package name: ... djista-frontend
+√ Add TypeScript? ... No / Yes
+√ Add JSX Support? ... No / Yes
+√ Add ESLint for code quality? ... No / Yes
+√ Add Vue DevTools 7 extension for debugging? (experimental) ... No / Yes     
+
+Scaffolding project in C:\Users\PMLS\Desktop\Django\Djista\Djista_frontend... 
+
+Done. Now run:
+
+  cd Djista_frontend
+  npm install
+  npm run dev
+
+PS C:\Users\PMLS\Desktop\Django\djista>
+
+
+
+
+                                        cd Djista_frontend
+PS C:\Users\PMLS\Desktop\Django\djista\Djista_frontend> npm install
+
+added 31 packages, and audited 32 packages in 58s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\PMLS\Desktop\Django\djista\Djista_frontend> npm run dev
+
+> djista-frontend@0.0.0 dev
+> vite
+
+
+added 9 packages, and audited 41 packages in 4s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\PMLS\Desktop\Django\djista\Djista_frontend> npm install -D tailwindcss postcss autoprefixer
+
+added 116 packages, and audited 157 packages in 49s
+
+40 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\PMLS\Desktop\Django\djista\Djista_frontend> npx tailwindcss init -p
+
+Created Tailwind CSS config file: tailwind.config.js
+Created PostCSS config file: postcss.config.js
+PS C:\Users\PMLS\Desktop\Django\djista\Djista_frontend>
+
+
+tailwind css vite vue  
+follow steps
+
+
+Re-optimizing dependencies because lockfile has changed
+
+  VITE v5.2.12  ready in 929 ms      
+
+  ➜  Local:   http://localhost:5173/ 
+  ➜  Network: use --host to expose   
+  ➜  press h + enter to show help    
+11:39:18 AM [vite] hmr update /src/App.vue, /src/assets/main.css (x2)
+
+
